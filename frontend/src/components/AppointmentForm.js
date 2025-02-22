@@ -194,7 +194,7 @@ const AppointmentForm = () => {
                                 <li>Treats for your pets with your</li>
                             </ul>
                         </div>
-                        <img src={puppyImage} alt="Cute puppy" className="bottom-image" />
+                        {/*todo fix this <img src={puppyImage} alt="Cute puppy" className="bottom-image" /> */}
                     </div>
 
                     <div className="form-container">
